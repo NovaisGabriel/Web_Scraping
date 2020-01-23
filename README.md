@@ -8,8 +8,7 @@
 <h5>Pacotes utilizados</h5>
 <ul>
   <li>urllib.request</li>
-  <li>numpy</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>BeautifulSoup (bf4)</li>
 </ul>
+
+<p>Futuramente o projeto vai se extender para a coleta e organização dos dados em um dataframe no Pandas.</p>
