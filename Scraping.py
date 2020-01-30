@@ -2,11 +2,6 @@
 # Importando pacotes
 # Import
 import urllib.request
-import numpy as np
-import pandas as pd
-import ast
-import json as js
-import re
 
 # From packages
 from bs4 import BeautifulSoup as bf4

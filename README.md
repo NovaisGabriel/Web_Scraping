@@ -1,3 +1,14 @@
 <h1>Web_Scraping</h1>
 
-<p>Teste para verificar se está tudo dentro dos conformes.</p>
+<p> Exemplo simples de como fazer um scraping da página do <a href="https://www.zapimoveis.com.br/">ZAP-Imovéis </a>, para pegar dados sobre os anúncios. Nenhuma análise sobre oos resultados foram feitos.</p>
+
+<h5>Linguagem</h5>
+<p>Python 3.7</p>
+
+<h5>Pacotes utilizados</h5>
+<ul>
+  <li>urllib.request</li>
+  <li>BeautifulSoup (bf4)</li>
+</ul>
+
+<p>Futuramente o projeto vai se extender para a coleta e organização dos dados em um dataframe no Pandas.</p>
