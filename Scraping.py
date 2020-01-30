@@ -8,7 +8,7 @@ import ast
 import json as js
 import re
 
-# From
+# From packages
 from bs4 import BeautifulSoup as bf4
 
 # Obtenção de dados do ZAP
