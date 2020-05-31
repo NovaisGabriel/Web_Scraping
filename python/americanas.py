@@ -25,9 +25,6 @@ soup = BeautifulSoup(page, 'html.parser')
 
 x = soup.findAll("span", class_="PriceUI-bwhjk3-11 cmTHwB PriceUI-sc-1q8ynzz-0 dHyYVS TextUI-sc-12tokcy-0 bLZSPZ")
 
-for i in x:
-    
-
 print(len(x))
 
 
