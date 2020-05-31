@@ -8,6 +8,7 @@ a utilização de pacotes como o tqdm para acompanhar o progresso do scraping.</
 <p>Página de scraping do despacho térmico em <a href="http://sdro.ons.org.br/SDRO/DIARIO/index.htm">ONS</a></p>
 <p>Página de scraping do <a href="https://www.zapimoveis.com.br/">ZAP-Imovéis </a></p>
 <p>Página de scrpaing de <a href="https://pt.climate-data.org/">clima</a></p>
+<p>Página de scraping de <a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/m/samsung">americanas</a></p>
 
 <h5>Linguagem</h5>
 <p>Python 3.7</p>
