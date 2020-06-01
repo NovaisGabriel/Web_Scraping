@@ -27,7 +27,4 @@ x = soup.findAll("span", class_="PriceUI-bwhjk3-11 cmTHwB PriceUI-sc-1q8ynzz-0 d
 
 print(len(x))
 
-
-# print(soup)
-
 # PriceUI-bwhjk3-11 cmTHwB PriceUI-sc-1q8ynzz-0 dHyYVS TextUI-sc-12tokcy-0 bLZSPZ
